@@ -1,0 +1,70 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcKgfUt0aJsX6goc6yjUsBrNXcqZgXsXHsBw&usqp=CAU);
+    
+   /* background-repeat: no-repeat;
+    background-size:  cover;*/
+    
+    opacity: 200;/*text opacity changes*/
+   
+    border: 20px;
+    text-align: center;
+    
+    
+  
+}
+h3{
+    border-radius: 5px;
+    padding: 5px;
+}
+
+input{
+    border-width: 5px;
+    border-color: aqua;
+    text-align: center;
+    padding: 4px;
+    border-bottom-right-radius: 10px; 
+    width:15%;   
+}
+label{
+    
+    padding: 4px;
+    background-color: rgb(182, 59, 141);
+    border-top-left-radius: 10px;
+    padding: 5px;
+    color: beige;
+}
+.title{
+    background-color: beige ;
+    text-align: center;
+    text-size-adjust: 30px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 2px;
+    margin: 50px;
+    height: 35px;
+    margin-left: 35%;
+    margin-right: 35%;
+    color: rgb(17, 121, 206);
+
+}
+.headings{
+    text-align: center;
+    background-color: rgb(109, 195, 235);
+    padding: 3px;
+    border: 10px;
+    margin-left:40%;
+    margin-right: 40%;
+}
+h6 {
+    background-color: rgb(177, 190, 56);
+    color: rgb(214, 65, 65);
+  }
+#right{
+    float: right;
+
+}
+#left{
+    float:left;
+}
+
+
